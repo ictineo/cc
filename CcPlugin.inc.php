@@ -1,21 +1,18 @@
 <?php
 
 /**
- * @file CcPlugin.inc.php
+ * @file IssueCarouselPlugin.inc.php
  *
- * Copyright (c) 2013 Projecte Ictineo (www.projecteictineo.com)
+ * Copyright (c) 2003-2011 John Willinsky
  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
  *
- * @class ccPlugin
- * @ingroup plugins_generic_cc
+ * @class IssueCarouselPlugin
+ * @ingroup plugins_generic_announcementFeed
  *
- * @brief Creative Commons licence plugin class
+ * @brief Annoucement Feed plugin class
  */
 
 // $Id$
-
-// TODO Config section to select the license
-// TODO Add strings in local for each license
 
 
 import('lib.pkp.classes.plugins.GenericPlugin');
