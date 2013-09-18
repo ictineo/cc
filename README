@@ -1,0 +1,3 @@
+OJS plugin, tested for OJS 2.6.3
+
+this plugin provide a hook to be included in your template to display a custom CC messages. Useful for multiple journals instalation with diferent journal CC policy
